@@ -1,0 +1,47 @@
+﻿/* Archivo css para ordenadores*/
+
+body,html{height: 100%;padding: 0px;margin: 0px;overflow: hidden;}
+html{background-image: url("../img/fondo.jpg"); background-size: cover;background-repeat: no-repeat;font-family: Arial, sans-serif;}
+body{font-size:1.8vmax;background-color: transparent;}
+
+/* Aspecto para el DIV que contiene el Panel de Control */
+.a{position: absolute;z-index: 1;top: 0;left: 0;margin-top: 15px;margin-left: 15px;width: 25%;border-style: ridge;}
+/* Aspecto para el DIV que contiene diferentes mensajes */
+.b{background-color: black;position: absolute;top: 5%;left: 2.5%;height: 90%;width: 95%;display: none;z-index: 20;border-radius: 25px;border-style: outset;filter: opacity(90%);text-align: center;vertical-align: middle;color: #f1f1f1;}
+/* Aspecto para el DIV que contiene el Menú*/
+.c{position: absolute;z-index: 1;top: 0;right: 0;margin-top: 15px;margin-right: 15px;width: 25%;border: 1px solid #00FF00;}
+/* Aspecto para el DIV que contiene la superficie lunar */
+.d{height: 25%;width: 100%;position: fixed;bottom: 0px;background-image: url("../img/luna.png");background-size: cover;background-repeat: no-repeat;z-index: -2;}
+
+/* Aspecto para el DIV que contiene la nave*/
+#nave{text-align: center;position: fixed;top: 5%;width: 100%;height: 20%;z-index: -1;}
+#nave img{height: 100%;}
+
+/*Aspecto del DIV texto dentro del DIV b*/
+#instrucciones, #acerca{display: table;}
+.texto{display: table-cell;vertical-align: middle;padding: 2%;}
+.texto a{color: #00FF00;cursor:pointer;text-decoration: none;}
+.texto a:hover{color: #555;}
+#tverde{color: #00FF00;font-size: 2.3vmax;}
+#tpeque{font-size: 1vmax;}
+
+/*Aspecto para botones*/
+#facil,#medio,#dificil{background-color: #00FF00;color: black;padding: 10px;text-align: center;font-weight: bold;width: 80px;height: 40px;cursor: pointer;border-radius: 10px;}
+#facil:hover,#medio:hover,#dificil:hover{background-color: #555;color: white;}
+
+
+/* En ordenadores no se muestra el botón Menú*/
+#bmenu{display: none;}
+
+/* Aspecto para el contenido del Panel de control y el Menú*/
+.a ul, .c ul{list-style-type: none;margin: 0;padding: 0;font-size: 100%;text-align: center;}
+#cpanel{background-color: black;color: white;}
+#menu{background-color: #f1f1f1;color: black;}
+#cp-titulo{background-color: #f1f1f1;color: black;font-weight: bold;}
+#m-titulo{background-color: #00FF00;font-weight: bold;}
+#menu li a,#cpanel li a{display: block;text-decoration: none;color:black;width: 100%;height: 100%;}
+#menu li{border-bottom: 1px solid #00FF00;}
+#menu li:last-child{border-bottom: none;}
+#menu li a:hover{background-color: #555;color: white;}
+#velocidad, #fuel, #altura{font-weight: bold;color: #00FF00;}
+#velocidad_limite{font-weight: bold;color: #a8a8a8;}
