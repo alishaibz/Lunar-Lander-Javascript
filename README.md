@@ -24,7 +24,7 @@ Per a la realització del projecte Lunar Lander amb Javascript de l'assignatura 
 
 10. Modificació de la imatge de la nau (nave.png) a l'[editor PIXLR](https://pixlr.com/editor/). S'esborra el foc del motor i, així, es creen dues noves imatges: nave_on.png (amb el motor encès) i nave_off.png (amb el motor apagat).
 
-11. Optimització de totes les imatges.
+11. Optimització de totes les imatges a la pàgina web [tinypng.com](https://tinypng.com/):
 
 12. Modificació de la codificació dels fitxers index.html, acerca.html, instrucciones.html, js.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/) i altres fonts (que es citen al final d'aquest document) per complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
 
