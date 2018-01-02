@@ -56,7 +56,8 @@ Per a la realització del projecte Lunar Lander amb Javascript de l'assignatura 
 
 26. Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
 
-Fonts web d'informació consultades:
+## Fonts web d'informació consultades:
+
 Recursos CSS: [http://www.araudi.net/](http://www.araudi.net/).
 Table cell and vertical align: [http://www.vanseodesign.com/blog/demo/vertical-centering/table-cell.php](http://www.vanseodesign.com/blog/demo/vertical-centering/table-cell.php).
 MinMaxing: [https://www.imaginanet.com/blog/minmaxing-aprendiendo-vmin-y-vmax-en-css.html](https://www.imaginanet.com/blog/minmaxing-aprendiendo-vmin-y-vmax-en-css.html).
