@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <title>Lunar Lander</title>
+ <meta name="description" content="Lunar Lander">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel='stylesheet' media='screen and (min-width: 961px)' href='css/d.css'>
+ <link rel='stylesheet' media='screen and (max-width: 960px)' href='css/m.css'>
+ <script src="js/js.js"></script>
+ <meta name="author" content="Alicia Lopez">
+ <link href="img/nave.png" rel="shortcut icon">
+</head>
+
+<body>
+
+ <!--DIV PARA NAVE-->
+ <div id="nave">
+ <img id ="img_nave" src="img/nave_off.png" alt="img nave">
+ </div>
+
+ <!--DIV PARA PANEL DE CONTROL-->
+ <div class="a">
+ <ul id="cpanel">
+  <li id="cp-titulo">Panel de control</li>
+  <li>Velocidad límite: <span id="velocidad_limite">5</span> m/s</li>
+  <li>Velocidad: <span id="velocidad">100</span> m/s</li>
+  <li>Combustible: <span id="fuel">100</span> l</li>
+  <li>Altura: <span id="altura">70</span> m</li>
+ </ul>
+ </div>
+
+ <!--DIV PARA MENÚ-->
+ <div class="c">
+ <button id="bmenu"> Menú </button>
+ <ul id="menu" class="m-contenido">
+  <li id="m-titulo">Menú</li>
+  <li><a href="#" id="play-pause">Pausar</a></li>
+  <li><a href="index.html">Reiniciar</a></li>
+  <li><a href="instrucciones.html">Instrucciones</a></li>
+  <li><a href="acerca.html">Acerca de Lunar Landing</a></li>
+ </ul>
+ </div>
+
+ <!--DIV PARA SUPERFICIE LUNAR-->
+ <div class="d"></div>
+ 
+  <!--DIV PARA MENSAJE DE INICIO-->
+ <div class="b" id="inicio">
+  <div class="texto">
+   <p class="tverde">¡Bienvenido a Lunar Lander!</p>
+   Tu objetivo es llegar a la superficie de la Luna a una velocidad a la que elijas según el nivel de dificultad. <br><br> Para ello, pulsa cualquier tecla o haz click en la pantalla para encender/apagar los motores de tu nave. Cuando los motores se encienden, disminuye la velocidad de caída pero también disminuye tu tanque de combustible. Y, al revés, cuando los motores se apagan, aumenta la velocidad de caída pero no gastas combustible. Por tanto, debes ir encendiendo y apagando los motores para conseguir aterrizar en la Luna a una velocidad de caída inferior a la elegida. Si no lo consigues tu nave explotará.<br><br> Elige el nivel de dificultad: <br><br>
+   <button type="button" id="facil">FÁCIL</button>
+   <button type="button" id="medio">MEDIO</button>
+   <button type="button" id="dificil">DIFÍCIL</button>
+   
+   <p class="tpeque"><br>Nivel Fácil: Velocidad límite 5m/s y tanque de 300l.<br>Nivel Medio: Velocidad límite 3m/s y tanque de 200l.<br>Nivel Difícil: Velocidad límite 1m/s y tanque de 100l.</p>
+  </div>
+ </div>
+ 
+ <!--DIV PARA MENSAJE AL GANAR-->
+ <div class="b" id="ganador"> 
+  <div class="texto">
+   <p class="tverde">¡Enhorabuena!</p>
+   Has conseguido aterrizar con éxito en la Luna <br><br>
+   <a href="index.html">Volver a jugar</a>
+  </div>
+ </div>
+ 
+  <!--DIV PARA MENSAJE AL PERDER-->
+ <div class="b" id="perdedor"> 
+  <div class="texto">
+   <p class="tverde">¡Has perdido!</p>
+   Vuelve a intentarlo<br><br>
+   <a href="index.html">Volver a jugar</a>
+  </div>
+ </div>
+
+</body>
+</html>
