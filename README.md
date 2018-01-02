@@ -50,11 +50,13 @@ Per a la realització del projecte Lunar Lander amb Javascript de l'assignatura 
 
 23. Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/Lunar-Lander-Javascript/master/index.html).
 
-24. Creació d'un branch al repositori crear anteriorment.
+24. Creació del branch [mini](https://github.com/alishaibz/Lunar-Lander-Javascript/tree/mini) al repositori creat anteriorment.
 
-25. Pujada del arxius corresponent a la versió minimificada del projecte.
+25. Eliminació dels arxius del branch mini que no es troben minimificats
 
-26. Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
+26. Pujada dels arxius corresponents a la versió minimificada del projecte al branch mini.
+
+27. Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
 
 ### Modificacions de les tasques encomanades a desenvolupar:
 * No existeix botó Power.
