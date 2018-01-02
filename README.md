@@ -24,31 +24,34 @@ Per a la realització del projecte Lunar Lander amb Javascript de l'assignatura 
 
 10. Modificació de la imatge de la nau (nave.png) a l'[editor PIXLR](https://pixlr.com/editor/). S'esborra el foc del motor i, així, es creen dues noves imatges: nave_on.png (amb el motor encès) i nave_off.png (amb el motor apagat).
 
-11. Modificació de la codificació dels fitxers index.html, acerca.html, instrucciones.html, js.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/css/))  per aconseguir totes les coses que se'ns demana i una bona presentació del projecte.
+11. Optimització de totes les imatges.
 
-12. Verificació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla.
+12. Modificació de la codificació dels fitxers index.html, acerca.html, instrucciones.html, js.js, d.css i m.css amb l'ajuda dels diferents tutorials ([HTML](https://www.w3schools.com/html/),[CSS](https://www.w3schools.com/css/) i [Javascript](https://www.w3schools.com/js/) i altres fonts (que es citen al final d'aquest document) per complir amb tots el requeriments que se'ns demana i aconseguir una bona presentació del projecte.
 
-12. Validació dels fitxers .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+13. Verificació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla.
 
-13. Validació dels fitxers .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+14. Validació dels fitxers .html al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
 
-14. Validació del fitxer .js al [validador web de Javascript](), obtenint un resultat positiu.
+15. Validació dels fitxers .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
 
-13. Optimització del codi dels fitxers .html a la web [www.willpeavy.com/minifier/](https://www.willpeavy.com/minifier/) i creació dels corresponents fitxers .html optimitzats.
+16. Validació del fitxer .js al [validador web de Javascript](http://jshint.com/), obtenint un resultat positiu.
 
-14. Optimització del codi dels fitxers .css a la web [cssminifier.com/](https://cssminifier.com/) i creació dels corresponents fitxers .css optimitzats.
+17. Optimització del codi dels fitxers .html a la web [www.willpeavy.com/minifier/](https://www.willpeavy.com/minifier/) i creació dels corresponents fitxers .html optimitzats.
 
-15. Validació dels fitxers .html optimitzats al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+18. Optimització del codi dels fitxers .css a la web [cssminifier.com/](https://cssminifier.com/) i creació dels corresponents fitxers .css optimitzats.
 
-16. Validació dels fitxers .css optimitzats al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+19. Validació dels fitxers .html optimitzats al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
 
-17. Creació d'un nou repositori a Github, [**Lunar-Lander-Javascript**]().
+20. Validació dels fitxers .css optimitzats al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+
+21. Creació d'un nou repositori a Github, [**Lunar-Lander-Javascript**]().
     
-18. Pujada dels arxius corresponents a la tasca (directoris "img", "css" i "js" i fitxers .html,) al nou repositori, **Lunar-Lander-Javascript**.
+22. Pujada dels arxius corresponents a la tasca (directoris "img", "css" i "js" i fitxers .html,) al nou repositori, **Lunar-Lander-Javascript**.
 
-19. Obtenció de [URL de Rawgit de la meva web]().
+23. Obtenció de [URL de Rawgit de la meva web]().
 
-20. Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
+24. Creació d'un branch al repositori crear anteriorment.
 
+25. Pujada del arxius corresponent a la versió minimificada del projecte.
 
-Nota 2: Sapiguent que em trobo fora del límit de lliuramente, només indico l'enllaç al [GitHub branch creat (mini)](https://github.com/alishaibz/Lunar-Landing/tree/mini) per saber si és això el que es demanava perquè encara no ho entès molt bé. Moltes gràcies i perdoni les molèsties.
+26. Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
