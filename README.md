@@ -44,11 +44,11 @@ Per a la realització del projecte Lunar Lander amb Javascript de l'assignatura 
 
 20. Validació dels fitxers .css optimitzats al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
 
-21. Creació d'un nou repositori a Github, [**Lunar-Lander-Javascript**]().
+21. Creació d'un nou repositori a Github, [**Lunar-Lander-Javascript**](https://github.com/alishaibz/Lunar-Lander-Javascript).
     
 22. Pujada dels arxius corresponents a la tasca (directoris "img", "css" i "js" i fitxers .html,) al nou repositori, **Lunar-Lander-Javascript**.
 
-23. Obtenció de [URL de Rawgit de la meva web]().
+23. Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/Lunar-Lander-Javascript/master/index.html).
 
 24. Creació d'un branch al repositori crear anteriorment.
 
@@ -59,7 +59,8 @@ Per a la realització del projecte Lunar Lander amb Javascript de l'assignatura 
 ### Modificacions de les tasques encomanades a desenvolupar:
 * No existeix botó Power.
 * S'han establert tres nivells de dificultat, els quals fan variar la quantitat de combustible de la nau i la velocitat llindar d'aterratge.
-* Al aterrar la nau a la Lluna el joc finalitza (guanyant o perdent) i apareix una finestra amb un enllaç al final (Volver a jugar), que permet reiniciar el joc.
+* Al aterrar la nau a la Lluna, el joc finalitza (guanyant o perdent) i apareix una finestra amb un enllaç al final (Volver a jugar), que permet reiniciar el joc.
+* S'ha establert la variable pausa al codi Javascript que permet que mentre que el joc estigui en pausa no es pugui accionar la nau ni fent click en la pantalla ni prement cap tecla.
 
 ### Fonts web d'informació consultades:
 * Recursos CSS: [http://www.araudi.net/](http://www.araudi.net/).
