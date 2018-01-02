@@ -56,6 +56,11 @@ Per a la realització del projecte Lunar Lander amb Javascript de l'assignatura 
 
 26. Edició del fitxer README.me del repositori **Lunar-Lander-Javascript**.
 
+### Modificacions de les tasques encomanades a desenvolupar:
+* No existeix botó Power.
+* S'han establert tres nivells de dificultat, els quals fan variar la quantitat de combustible de la nau i la velocitat llindar d'aterratge.
+* Al aterrar la nau a la Lluna el joc finalitza (guanyant o perdent) i apareix una finestra amb un enllaç al final (Volver a jugar), que permet reiniciar el joc.
+
 ### Fonts web d'informació consultades:
 * Recursos CSS: [http://www.araudi.net/](http://www.araudi.net/).
 * Table cell and vertical align: [http://www.vanseodesign.com/blog/demo/vertical-centering/table-cell.php](http://www.vanseodesign.com/blog/demo/vertical-centering/table-cell.php).
